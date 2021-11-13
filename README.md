@@ -2,6 +2,8 @@
 This is a from the scratch python implementation of single layered neural network. The project works for python versions 2.* or 3.*
 ## Data
 MNIST dataset is considered for evaluation of the model.
+## Dependencies
+    directory:\Codes> pip install requirements.txt
 ## Arguments
     directory:\Codes> python main.py --help 
     usage: main.py [-h] [-d DATA] [-l LABEL] [-p PLOT] [-s SAVE] [-ts TEST_SIZE] [-e N_EPOCH] [-lr LR] [-hn HIDDEN_NEURONES]
